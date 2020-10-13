@@ -20,7 +20,7 @@
     
     <version.fabric8-maven-plugin>3.5.28</version.fabric8-maven-plugin>
     
-    <junit.version>4.12</junit.version>
+    <junit.version>4.13.1</junit.version>
     <mockito.version>2.16.0</mockito.version>
     <slf4j.version>1.7.21</slf4j.version>
     <maven-compiler-plugin.version>3.7.0</maven-compiler-plugin.version>
